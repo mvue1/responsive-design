@@ -3,3 +3,7 @@
 * {
 	font-family: Arial;
 }
+
+.col, .col-4, .col-8 {
+	border: 1px solid red;
+}
